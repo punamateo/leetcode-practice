@@ -36,3 +36,4 @@ console.log(testCase1)
 
 
 //Tengo que realizar el analisis O(n) y el analisis amortizado
+// 25 min vs 15 that it should take. Need to move faster!
